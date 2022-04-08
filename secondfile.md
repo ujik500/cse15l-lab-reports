@@ -24,7 +24,9 @@ _Italics!_
 
 `// this is inline code`
 
-```System.out.println("This is my code block");
+```
+System.out.println("This is my code block");
 
-System.out.println("This is the second line of it!);```
+System.out.println("This is the second line of it!);
+```
 
