@@ -9,7 +9,7 @@ _Italics!_
 
 [Links!](https://en.wikipedia.org/wiki/Trollface)
 
-![Counties I've Visited]("counties.png")
+![Image!](https://i.imgur.com/Myvtk0G.jpg)
 
 ## More Headings!
 
@@ -25,5 +25,6 @@ _Italics!_
 `// this is inline code`
 
 ```System.out.println("This is my code block");
+
 System.out.println("This is the second line of it!);```
 
