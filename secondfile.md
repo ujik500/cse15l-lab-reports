@@ -1,7 +1,7 @@
 This is my second file.
 Now I will use all of the basic Markdown features!
 
-# Headings!
+# Basic Features
 
 _Italics!_
 
@@ -11,16 +11,16 @@ _Italics!_
 
 ![Image!](https://i.imgur.com/Myvtk0G.jpg)
 
-## More Headings!
+## List Structures
 
-* Bullet Point 1
-* Bullet Point 2
+* Apple
+* Orange
 
-1. Ordered List 1
-2. Ordered List 2
-3. Ordered List 3
+1. CSE 8A
+2. CSE 12
+3. CSE 8B
 
-### Even More Headings!
+## Code
 
 `// this is inline code`
 
