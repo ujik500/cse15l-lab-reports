@@ -3,13 +3,15 @@ Now I will use all of the basic Markdown features!
 
 # Headings!
 
-__Italics!__
+_Italics!_
 
 **Bolded Text!**
 
 [Links!](https://en.wikipedia.org/wiki/Trollface)
 
-![Counties I've Visited](counties)
+![Counties I've Visited]("counties.png")
+
+## More Headings!
 
 * Bullet Point 1
 * Bullet Point 2
@@ -17,6 +19,8 @@ __Italics!__
 1. Ordered List 1
 2. Ordered List 2
 3. Ordered List 3
+
+### Even More Headings!
 
 `// this is inline code`
 
