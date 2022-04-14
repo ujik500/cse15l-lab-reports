@@ -18,7 +18,7 @@ This step is very open-ended, and there are many cool commands to try out! Some 
 * `cd`: change directory
 * `ls`: lists directories and files in current directory
 * `ls -a`: also displays hidden directories
-* `ls -lat`: same as ls -a, except it provides more information in a list format
+* `ls -lat`: same as `ls -a`, except it provides more information in a list format
 * `touch`: create a new file
 * `cat`: add text to a file
 
