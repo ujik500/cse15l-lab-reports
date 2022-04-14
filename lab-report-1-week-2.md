@@ -31,7 +31,7 @@ To do this step, exit from remote access and enter this command in the client (y
 
 `$ scp <FileName> cs15lsp22___@ieng6.ucsd.edu:~/`
 
-Next, enter your password. Now the file should be copied to the remote computer. You can check that by logging into the remote server again and using the "ls" command.
+Next, enter your password. Now the file should be copied to the remote computer. You can check that by logging into the remote server again and using the `ls` command.
 
 ![Image4](week2pic4.PNG)
 
