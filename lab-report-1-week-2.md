@@ -1,6 +1,6 @@
 # Week 2 Lab Report
 ## Step 1: Installing VS Code
-This process was very straightforward. I just went  to Visual Studio Code's website and pressed the big blue "download" button at the top of the page. Then, I chose the Windows option because my laptop uses that OS. Mac and Linux users have other specified buttons to download. Once VS Code finished installing, I opened it to the main page, as shown below:
+This process was very straightforward. I just went to [Visual Studio Code's website](https://code.visualstudio.com/) and pressed the big blue "download" button at the top of the page. Then, I chose the Windows option because my laptop uses that OS. Mac and Linux users have other specified buttons to download. Once VS Code finished installing, I opened it to the main page, as shown below:
 
 ![Image1](week2pic1.PNG)
 ## Step 2: Remotely Connecting
@@ -15,12 +15,12 @@ Next, the terminal will prompt you to enter your password, and once you do that 
 ![Image2](week2pic2.PNG)
 ## Step 3: Trying Some Commands
 This step is very open-ended, and there are many cool commands to try out! Some examples are:
-* cd: change directory
-* ls: lists directories and files in current directory
-* ls -a: also displays hidden directories
-* ls -lat: same as ls -a, except it provides more information in a list format
-* touch: create a new file
-* cat: add text to a file
+* `cd`: change directory
+* `ls`: lists directories and files in current directory
+* `ls -a`: also displays hidden directories
+* `ls -lat`: same as ls -a, except it provides more information in a list format
+* `touch`: create a new file
+* `cat`: add text to a file
 
 Here are some of the results from my tests:
 
