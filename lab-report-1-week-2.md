@@ -41,8 +41,8 @@ To run commands on the remote computer without entering a password every single 
 
 ![Image5](week2pic5.PNG)
 
-Once this process is complete, copy the **PUBLIC** key only to the remote computer using the scp command (as seen in Step 4). Do not transfer the private key, as that would be a security risk. Now you should be able to access the remote computer without entering a password!
+Once this process is complete, copy the **PUBLIC** key only to the remote computer using the `scp` command (as seen in Step 4). Do not transfer the private key, as that would be a security risk. Now you should be able to access the remote computer without entering a password!
 ## Step 6: Optimizing Remote Connecting
-The time needed to connect remotely can be decreased greatly by using the up-arrow key in the terminal to retrieve past commands. It can be decreased even further by completing the ssh-keygen process as described in Step 5. In the end, I got the time down to around 3 to 4 seconds at the fastest. This is what it should look like once you don't have to enter a password: 
+The time needed to connect remotely can be decreased greatly by using the up-arrow key in the terminal to retrieve past commands. It can be decreased even further by completing the `ssh-keygen` process as described in Step 5. In the end, I got the time down to around 3 to 4 seconds at the fastest. This is what it should look like once you don't have to enter a password: 
 
 ![Image6](week2pic6.PNG)
