@@ -9,6 +9,9 @@ To fix this, I added some if statements that break out of the while loop if no m
 ![Image1](week4pic1.PNG)
 
 ## Code Change #2
+The second issue that I realized involved files with links to images. Our `getLinks` function should not include image links, but at this point the method could not tell the difference. The file that caused this symptom was called code-breaker.md, and you can see that [TODO](). Here is an example of the symptom (for context, the second link was to an image, so it should not have been there):
+
+![Image3](week4pic3.PNG)
 
 
 ## Code Change #3
