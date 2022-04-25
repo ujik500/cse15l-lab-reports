@@ -18,3 +18,10 @@ To fix this, I added an if statement that will skip over a link if it has an exc
 ![Image4](week4pic4.PNG)
 
 ## Code Change #3
+The third big issue I had to fix was regarding brackets and parentheses which were separated by text in between. These instances of brackets/parentheses should not be considered as links, but my program could not tell they were not. The file that caused this sympton was called new-breaker.md, and you can see that [TODO](). Here is an example of the symptom (for context, the second "link" - the space - should not have been detected as a link): 
+
+![Image5](week4pic5.PNG)
+
+To fix this, I added yet another if statement that skips over pairs of brackets and parentheses that do not directly abut one another. The changes from this commmit are displayed below:
+
+![Image6](week4pic6.PNG)
