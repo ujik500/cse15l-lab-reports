@@ -13,5 +13,8 @@ The second issue that I realized involved files with links to images. Our `getLi
 
 ![Image3](week4pic3.PNG)
 
+To fix this, I added an if statement that will skip over a link if it has an exclamation point before the open bracket. The `currentIndex != 0` condition is there to make sure MarkdownParse doesn't check an index that is out of range by trying to check index -1. The changes from this commit are displayed below:
+
+![Image4](week4pic4.PNG)
 
 ## Code Change #3
