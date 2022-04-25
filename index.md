@@ -1,4 +1,6 @@
-Choose a lab report below to get started!
+# CSE 15L Lab Report Directory
+
+Click a link below to get started!
 
 [Lab Report 1](lab-report-1-week-2.html) 
 
