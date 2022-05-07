@@ -39,7 +39,7 @@ Here is an example of me doing it:
 ![Image8](week6pic8.PNG)
 ![Image9](week6pic9.PNG)
 
-Now that the entire directory has been copied over to the remove computer, I am able to run my JUnit tests there also, as shown below:
+Now that the entire directory has been copied over to the remote computer, I am able to run my JUnit tests there also, as shown below:
 
 ![Image10](week6pic10.PNG)
 
