@@ -1,6 +1,6 @@
 # Week 6 Lab Report
 ## Streamlining SSH Configuration
-The basic command to connect to the ieng6 remote server (`$ ssh cs15lsp22___@ieng6.ucsd.edu`) is very long, and annoying to type out every time one wants to connect. So, to make this process easier in the future, we can add some lines of text to the .ssh/config file. To accomplish this, my partner and I opened the .ssh folder using VS Code and pasted the appropriate text into it. This is what that file looks like when we print out its contents with `cat` on the command line:
+The basic command to connect to the ieng6 remote server (`$ ssh cs15lsp22___@ieng6.ucsd.edu`) is very long, and annoying to type out every time one wants to connect. So, to make this process easier in the future, we can add some lines of text to the .ssh/config file. To accomplish this, my partner and I opened the .ssh folder using VS Code and pasted the appropriate text into it. This is what that file looks like when we print out its contents afterwards with `cat` on the command line:
 
 ![Image1](week6pic1.PNG)
 
