@@ -1,6 +1,6 @@
 # Week 6 Lab Report
 ## Streamlining SSH Configuration
-The basic command to connect to the ieng6 remote server (`$ ssh cs15lsp22___@ieng6.ucsd.edu`) is very long, and annoying to type out every time one wants to connect. So, to make this process easier in the future, we can add some lines of text to the .ssh/config file. To accomplish this, my partner and I opened the .ssh folder using VS Code and pasted the appropriate text into it. This is what that file looks like when we print out its contents afterwards with `cat` on the command line:
+The basic command to connect to the ieng6 remote server (`$ ssh cs15lsp22___@ieng6.ucsd.edu`) is very long, and annoying to type out every time one wants to connect. So, to make this process easier in the future, we can add some lines of text to the `.ssh/config` file. To accomplish this, my partner and I opened the .ssh folder using VS Code and pasted the appropriate text into it. This is what that file looks like when we print out its contents afterwards with `cat` on the command line:
 
 ![Image1](week6pic1.PNG)
 
@@ -17,11 +17,11 @@ We can check to make sure this process worked correctly by logging into the remo
 ![Image4](week6pic4.PNG)
 
 ## Setup GitHub Access from ieng6
-When my partner and I tried to use the command `git push origin main` on the command line (from the remote computer) to push our changes to the GitHub repository, we got an error message. This is because we hadn't yet set up our SSH key in the GitHub website's settings. To do this, we had to copy the text of the public key in .ssh/id_rsa.pub, into the allocated box in the settings section of GitHub. That page can be seen below:
+When my partner and I tried to use the command `git push origin main` on the command line (from the remote computer) to push our changes to the GitHub repository, we got an error message. This is because we hadn't yet set up our SSH key in the GitHub website's settings. To do this, we had to copy the text of the public key in `.ssh/id_rsa.pub`, into the allocated box in the settings section of GitHub. That page can be seen below:
 
 ![Image5](week6pic5.PNG)
 
-Both the private and public keys are saved locally in the .ssh folder, with the private one being inside the id_rsa file:
+Both the private and public keys are saved locally in the `.ssh` folder, with the private one being inside the `id_rsa` file:
 
 ![Image6](week6pic6.PNG)
 
