@@ -17,5 +17,18 @@ We can check to make sure this process worked correctly by logging into the remo
 ![Image4](week6pic4.PNG)
 
 ## Setup GitHub Access from ieng6
+When my partner and I tried to use the command `git push origin main` on the command line (from the remote computer) to push our changes to the GitHub repository, we got an error message. This is because we hadn't yet set up our SSH key in the GitHub website's settings. To do this, we had to copy the text of the public key in .ssh/id_rsa.pub, into the allocated box in the settings section of GitHub. That page can be seen below:
+
+![Image5](week6pic5.PNG)
+
+Both the private and public keys are saved locally in the .ssh folder, with the private one being inside the id_rsa file:
+
+![Image6](week6pic6.PNG)
+
+Here is the outcome of us successfully pushing changes we made, which was just adding some random text (albeit after going through a GitHub security process related to "tokens"):
+
+![Image7](week6pic7.PNG)
+
+[Link to commit](https://github.com/CobyLsy/cse15l-lab-reports/commit/5db7f8ad8e2e90d5747594ac4d8901b3864c86c7)
 
 ## Copy Whole Directories with `scp -r`
