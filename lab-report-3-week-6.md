@@ -32,3 +32,11 @@ Here is the outcome of us successfully pushing changes we made, which was just a
 [Link to commit](https://github.com/CobyLsy/cse15l-lab-reports/commit/5db7f8ad8e2e90d5747594ac4d8901b3864c86c7)
 
 ## Copy Whole Directories with `scp -r`
+To securely copy an entire directory (in this case `markdown-parser`) to the remote server, we use the following command:
+`$ scp -r . cs15lsp22___@ieng6.ucsd.edu:~/markdown-parse` (where the underscores are replaced with the personal username's letters)
+
+Here is an example of me doing it:
+![Image8](week6pic8.PNG)
+![Image9](week6pic9.PNG)
+
+
