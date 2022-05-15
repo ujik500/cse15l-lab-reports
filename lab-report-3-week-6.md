@@ -46,3 +46,8 @@ Now that the entire directory has been copied over to the remote computer, I am 
 Multiple commands can also be combined together with semicolons and executed in sequence with one another. We can copy the directory to the remote server, log in, and run the tests in one line with this set of commands:
 
 ![Image11](week6pic11.PNG)
+
+Here is the output of executing that command (both copies the directory and runs the JUnit tests!);
+
+![Image13](week6pic13.PNG)
+![Image12](week6pic12.PNG)
