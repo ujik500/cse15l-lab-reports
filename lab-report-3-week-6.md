@@ -47,7 +47,8 @@ Multiple commands can also be combined together with semicolons and executed in 
 
 ![Image11](week6pic11.PNG)
 
-Here is the output of executing that command (both copies the directory and runs the JUnit tests!);
+Here is the output of executing that command (both copies the directory and runs the JUnit tests!):
+It had to be split up because the entire thing wouldn't fit on one screen.
 
 ![Image13](week6pic13.PNG)
 ![Image12](week6pic12.PNG)
