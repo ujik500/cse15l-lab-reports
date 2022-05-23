@@ -5,7 +5,7 @@
 [Other Group's Repository](https://github.com/rmccrystal/markdown-parser)
 
 ## Snippet 1
-The output for this snippet should be `["`google.com", "google.com", "ucsd.edu"]`
+The output for this snippet should be `["`google.com", "google.com", "ucsd.edu"]``
 
 
 ## Snippet 2
