@@ -9,7 +9,12 @@ I found both of the testcases with different outputs (#194 and #509) by using th
  
 ## Test File #194
 
+Here are the results of running this test file on my implementation (left), and the provided implementation (right):
+
+![image1](week10pic1.PNG)
 
 ## Test File #509
 
+Here are the results of running this test file on my implementation (left), and the provided implementation (right):
 
+![image2](week10pic2.PNG)
